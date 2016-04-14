@@ -1,0 +1,13 @@
+#ifndef _STM32F103C8T6_PIN_DEFINE_H
+#define	_STM32F103C8T6_PIN_DEFINE_H
+
+
+
+
+
+
+
+#endif
+
+
+
